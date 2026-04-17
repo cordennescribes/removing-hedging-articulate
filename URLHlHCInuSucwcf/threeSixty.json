@@ -1,0 +1,135 @@
+{
+  "version": "3.114.36620.0",
+  "course_id": "6HhyUNAapjo",
+  "title": "Hedging_Module",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Decision Tree"
+    },
+    {
+      "title": "Choosing Clarity"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Rzaa3AXCpW",
+      "title": "Start ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ksWRMoxIAx",
+      "title": "No Issue",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "65XIo3kigqf",
+      "title": "Scheduling Conflict",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6AT5bDZaSyD",
+      "title": "Inconvenient Timing",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6g2eCjlYSgm",
+      "title": "Start",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6Sq3hg1OFhG",
+      "title": "Scenario 3",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5wapQ5aEiyj",
+      "title": "Scenario 1",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5eBwXx6AeGo",
+      "title": "Scenario 2",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6iWcl0rLS1E",
+      "title": "Scenario 1 Checklist",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5WqNpn0wyRi",
+      "title": "Scenario 3 Checklist",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6jQ7ve281ue",
+      "title": "Scenario 2 Checklist",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6CmAmreBtIN",
+      "title": "States reality clearly lightbox",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "63iJPTOAdVz",
+      "title": "Protects face lightbox",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6347RnmpO9X",
+      "title": "Specific info lightbox",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5W6MIlhxpCA",
+      "title": "Path forward lightbox",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "5wzTcqRIHGK",
+      "title": "Listener input lightbox",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "6Nl40HzwuWh",
+      "title": "Scenario 1 Model Answer",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "60g5DutlCe9",
+      "title": "Scenario 2 Model Answer",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "6ODEXqySU2U",
+      "title": "Scenario 3 Model Answer",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "5wsTVhjtFBO",
+      "title": "Scenario 1 Model Answer Explanation",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "5zVB6A7O6yZ",
+      "title": "Scenario 3 Model Answer Explanation",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "5iV6ahWu8HO",
+      "title": "Scenario 2 Model Answer Explanation",
+      "scene_index": "2.18"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
